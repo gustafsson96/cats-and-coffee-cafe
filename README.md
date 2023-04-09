@@ -105,4 +105,34 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 ---
 
-Happy coding!
+Cats and Coffee Café
+
+"Sales pitch" 
+
+Features
+-Navbar
+-The landing page image
+-Café information section
+-Footer
+-Gallery to show some available cats/cats with new home (image + name and age) + information about more available cats in the café (As we help many cats to find their forever homes every week, all our cats may not show on this site. If you are interested in adopting, please fill out the "interested form" under "contact" and we will get back to you.)
+-Contact us/Sign up page with interest form for adoption to fill out
+
+
+Features left to implement (other feature ideas)
+
+Testing
+
+Validator testing
+
+Unfixed bugs
+
+Deployment
+
+Credits
+
+Content
+
+Followed along the "love running" walkthrough by Code Institute and adapted the content to add core strucutre to the home page html file.
+
+Media
+

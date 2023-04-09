@@ -105,11 +105,11 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 ---
 
-Cats and Coffee Café
+# Cats and Coffee Café
 
 "Sales pitch" 
 
-Features
+## Features
 -Navbar
 -The landing page image
 -Café information section
@@ -120,19 +120,24 @@ Features
 
 Features left to implement (other feature ideas)
 
-Testing
+## Testing
 
-Validator testing
+## Validator testing
 
-Unfixed bugs
+## Unfixed bugs
 
-Deployment
+## Deployment
 
-Credits
+## Credits
 
-Content
+Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/fonts/roboto?utm_content=cmp-true to choose what fonts to pair. 
+
+## Content
 
 Followed along the "love running" walkthrough by Code Institute and adapted the content to add core strucutre to the home page html file.
 
-Media
+## Media
+
+
+Don't forget to add screenshots!!
 

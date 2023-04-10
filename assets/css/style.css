@@ -48,3 +48,7 @@ h1, h2 {
 #menu a:hover {
     font-size: 115%;
 }
+
+.active {
+    font-size: 115%;
+}

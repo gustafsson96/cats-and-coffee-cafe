@@ -110,7 +110,7 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 "Sales pitch" 
 
 ## Features
--Navbar, changes font-size when hovered. 
+-Navbar, changes font-size by 115% when hovered (not sure if I like the active styling for changed font-sized, get back to this)
 
 -The landing page image
 
@@ -136,6 +136,8 @@ Features left to implement (other feature ideas)
 ## Credits
 
 Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/fonts/roboto?utm_content=cmp-true to choose what fonts to pair. 
+
+https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for nav-bar. 
 
 ## Content
 

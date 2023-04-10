@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: bisque;
+    background-color: #faf0dc;
     font-family: lora, sans-serif;
     font-weight: 300;
     color: #432616;
@@ -22,7 +22,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 130%
+    font-size: 120%;
    
 }
 
@@ -37,6 +37,7 @@ h1, h2 {
     list-style-type: none;
     margin-top: 5px;
     margin-right: 35px;
+    text-transform: uppercase;
 }
 
 #menu a {
@@ -50,5 +51,5 @@ h1, h2 {
 }
 
 .active {
-    font-size: 115%;
+    font-size: 112%;
 }

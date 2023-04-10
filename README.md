@@ -139,6 +139,10 @@ Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/f
 
 https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for nav-bar. 
 
+Used google "colour picker" to find the right hex color. 
+
+Images from https://unsplash.com/
+
 ## Content
 
 Followed along the "love running" walkthrough by Code Institute and adapted the content to add core strucutre to the home page html file.

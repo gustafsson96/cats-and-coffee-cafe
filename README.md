@@ -118,7 +118,7 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 -Footer
 
--Gallery to show some available cats/cats with new home (image + name and age) + information about more available cats in the café (As we help many cats to find their forever homes every week, all our cats may not show on this site. If you are interested in adopting, please fill out the "interested form" under "contact" and we will get back to you.)
+-Gallery to show  available cats/cats with new home (image + name and age) + information 
 
 -Contact us/Sign up page with interest form for adoption to fill out
 
@@ -141,7 +141,7 @@ https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for n
 
 Used google "colour picker" to find the right hex color. 
 
-Images from https://unsplash.com/
+Images from https://unsplash.com/ ?
 
 ## Content
 

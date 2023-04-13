@@ -118,9 +118,11 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 -Our cats (with images)
 
-- Adoption (form)
+-Adoption (form)
 
 -Contact 
+
+-Footer with social media links
 
 
 Features left to implement (other feature ideas)

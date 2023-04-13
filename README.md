@@ -116,7 +116,7 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 -About us
 
--Our cats (with images)
+-Our cats (with images) table? 
 
 -Adoption (form)
 
@@ -142,6 +142,8 @@ Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/f
 https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for nav-bar. 
 
 Used google "colour picker" to find the right hex color. 
+
+Header image from https://unsplash.com/
 
 
 ## Content

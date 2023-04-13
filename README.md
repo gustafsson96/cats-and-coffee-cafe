@@ -110,17 +110,17 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 "Sales pitch" 
 
 ## Features
--Navbar, changes font-size by 115% when hovered (not sure if I like the active styling for changed font-sized, get back to this)
+-Navbar, changes font-size when hovered
 
 -The landing page image
 
--Café information section
+-About us
 
--Footer
+-Our cats (with images)
 
--Gallery to show  available cats/cats with new home (image + name and age) + information 
+- Adoption (form)
 
--Contact us/Sign up page with interest form for adoption to fill out
+-Contact 
 
 
 Features left to implement (other feature ideas)
@@ -141,7 +141,6 @@ https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for n
 
 Used google "colour picker" to find the right hex color. 
 
-Images from https://unsplash.com/ ?
 
 ## Content
 

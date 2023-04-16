@@ -55,11 +55,14 @@ h1, h2 {
     font-size: 115%;
 }
 
-.left-column {
-    background-color: red;
-    
+img {
+    max-width: 100%;
 }
 
-.right-column {
-
+.welcome {
+    width: 20rem;
+    height: 5rem;
+    border: 2px solid red;
+    padding: 0px;
+    order: 1;
 }

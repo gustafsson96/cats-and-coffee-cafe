@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #faf0dc;
+    background-color: #fff;
     font-family: lora, sans-serif;
     font-weight: 300;
     color: #432616;
@@ -24,6 +24,7 @@ h1, h2 {
     float: left;
     font-size: 100%;
     color: #432616;
+    margin-left: 0.5rem;
    
 }
 
@@ -59,19 +60,28 @@ h1, h2 {
 
 .container {
     display: flex;
-    width: 100%
+    flex-direction: row-reverse;
+    width: 100%;
+    background-color: #faf0dc;
+
 }
 
 .image {
     max-width: 100%;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
     
 }
+
 
 .welcome {
     width: 20rem;
     padding: 0px;
     text-align: center;
     margin: auto; 
-    border: 3px solid red;
+    border: 2px solid red;
 }
 

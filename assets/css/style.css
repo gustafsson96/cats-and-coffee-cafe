@@ -64,13 +64,14 @@ h1, h2 {
 
 .image {
     max-width: 100%;
-    float: right; 
+    
 }
 
 .welcome {
     width: 20rem;
-    height: 5rem;
-    border: 2px solid red;
     padding: 0px;
+    text-align: center;
+    margin: auto; 
+    border: 3px solid red;
 }
 

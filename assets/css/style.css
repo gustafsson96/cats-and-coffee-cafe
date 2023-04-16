@@ -55,8 +55,16 @@ h1, h2 {
     font-size: 115%;
 }
 
-img {
+/* hero banner */
+
+.container {
+    display: flex;
+    width: 100%
+}
+
+.image {
     max-width: 100%;
+    float: right; 
 }
 
 .welcome {
@@ -64,5 +72,5 @@ img {
     height: 5rem;
     border: 2px solid red;
     padding: 0px;
-    order: 1;
 }
+

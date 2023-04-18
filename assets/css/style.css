@@ -133,13 +133,19 @@ table {
 
 th {
     text-transform: uppercase;
-
 }
-
-/* temporary border for table */
-
 
 table img {
     height: 18.75rem;
     width: 12.5rem;
+}
+
+.form-section {
+
+}
+
+.adoption-form {
+    
+    border: 1px solid red;
+    margin: 10% auto;
 }

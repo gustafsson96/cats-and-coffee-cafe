@@ -20,6 +20,10 @@ h1, h2 {
     text-transform: uppercase;
 }
 
+h2 {
+    text-align: center;
+}
+
 #logo {
     float: left;
     font-size: 100%;
@@ -91,50 +95,51 @@ h1, h2 {
 
 .about {
     background-color: red;
+    padding: 1rem;
     margin: 2rem auto;
-    width: 60%;
+    
+
 }
 
 .about h2 {
-    text-align: center;
-    padding-bottom: 1rem;
+    border-bottom: 1px solid #432616;
 }
 
 .about p {
     padding: 1rem 0.5rem;
 }
 
+/* gallery */
+
 .gallery {
-    text-align: center;
-    padding-bottom: 1rem;
     background-color: #faf0dc;
+    padding: 1rem;
 }
 
 .gallery h2 {
-    padding: 1em; 
-    background-color: #fff;
+    border-bottom: 1px solid #432616;
+}
+
+#birth {
+    font-style: italic;
 }
 
 table {
+    text-align: center;
     width: 80%;
-    margin: 1rem auto;
+    margin: 0.5rem auto;
+    padding: 1.5rem;
 }
 
 th {
     text-transform: uppercase;
-}
 
-th, td {
-    padding: 15px;
 }
 
 /* temporary border for table */
 
-table, th, td {
-    border: 1px solid #432616
-}
 
 table img {
-    height: 33%;
-    width: 33%;
+    height: 18.75rem;
+    width: 12.5rem;
 }

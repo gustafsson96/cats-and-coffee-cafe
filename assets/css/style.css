@@ -80,17 +80,23 @@ h1, h2 {
 .welcome {
     width: 20rem;
     padding: 0px;
-    text-align: center;
+    position: center;
     margin: auto; 
-    border: 2px solid red;
+}
+
+.welcome h1 {
+    text-align: left; 
+}
+
+.welcome p {
+    text-align: left; 
+    font-size: 1.2em;
 }
 
 .about {
     background-color: red;
     margin: 2rem auto;
     width: 60%;
-    
-    
 }
 
 .about h2 {

@@ -66,11 +66,11 @@ h1, h2 {
 
 }
 
-.image {
+.hero-image {
     max-width: 100%;
 }
 
-.image img {
+.hero-image img {
     width: 100%;
     height: 100%;
     
@@ -107,6 +107,12 @@ h1, h2 {
 .gallery {
     text-align: center;
     padding-bottom: 1rem;
+    background-color: #faf0dc;
+}
+
+.gallery h2 {
+    padding: 1em; 
+    background-color: #fff;
 }
 
 table {
@@ -126,4 +132,9 @@ th, td {
 
 table, th, td {
     border: 1px solid #432616
+}
+
+table img {
+    height: 33%;
+    width: 33%;
 }

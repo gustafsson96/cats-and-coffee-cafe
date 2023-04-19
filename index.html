@@ -80,6 +80,7 @@
           <p id="birth"> The birth of cats marked with * is unknown. The year presented is estimated by our veterinarian.</p> 
         </div>
 
+        <div style="overflow-x:auto;">
         <table>
             
           <tr> 
@@ -129,6 +130,7 @@
             </tr>
   
           </table>
+          </div>
 
     </section>
 
@@ -138,22 +140,19 @@
 
         <div class="adoption-form">
             <form action="/action_page.php">
-              <label for="fname">Full name:</label>
-              <input type="text" id="fname" name="firstname" placeholder="Your name..">
-              <br>
-          
-              <label for="email">Email address:</label>
-              <input type="email" id="email" name="email" placeholder="Your email address..">
-
-              <br>
-          
-              <label for="text">Country</label>
-              <input type="text" id="text" name="text">
-                
-              </select>
-            <br>
-              <input type="submit" value="Submit">
-            </form>
+  <fieldset>
+    <legend>Personalia:</legend>
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <label for="birthday">Birthday:</label>
+    <input type="date" id="birthday" name="birthday"><br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
           </div>  
     
      </section>

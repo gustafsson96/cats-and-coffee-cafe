@@ -20,10 +20,6 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-h2 {
-    text-align: center;
-}
-
 #logo {
     float: left;
     font-size: 100%;
@@ -102,6 +98,7 @@ h2 {
 }
 
 .about h2 {
+    text-align: center;
     border-bottom: 1px solid #432616;
 }
 
@@ -117,6 +114,7 @@ h2 {
 }
 
 .gallery h2 {
+    text-align: center;
     border-bottom: 1px solid #432616;
 }
 
@@ -139,10 +137,27 @@ table img {
     height: 18.75rem;
     width: 12.5rem;
 }
+
+.form-section {
+    padding: 1rem;
+}
+
+.form-section h2 {
+    text-align: center;
+    border-bottom: 1px solid #432616;
+}
+
   
-  .adoption.form {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-    margin: 0 auto;
-  }
+.adoption-form {
+    background-color: #faf0dc;
+    padding: 1.5rem; 
+    border: 2px solid #432616;
+    max-width: 400px;
+    margin: 0.5rem auto;
+    text-align: center;
+}
+
+.adoption-form h3 {
+    text-align: center;
+
+}

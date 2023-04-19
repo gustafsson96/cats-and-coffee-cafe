@@ -137,33 +137,48 @@
     <section class="form-section">
         <h2>Adoption Form</h2>
         </p>information</p>
+        <br>
 
-        <div class="adoption-form">
-            <form action="/action_page.php">
-  <fieldset>
-    <legend>Personalia:</legend>
-    <label for="fname">First name:</label>
-    <input type="text" id="fname" name="fname"><br><br>
-    <label for="lname">Last name:</label>
-    <input type="text" id="lname" name="lname"><br><br>
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email"><br><br>
-    <label for="birthday">Birthday:</label>
-    <input type="date" id="birthday" name="birthday"><br><br>
-    <input type="submit" value="Submit">
-  </fieldset>
-</form>
-          </div>  
-    
+         <form class="adoption-form" action="#" method="POST">
+            <fieldset>
+                <h3>Please fill out this form and we'll get back to you as soon as possible!</h3> 
+                <br>
+              <div>
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" placeholder="your name" required>
+             </div>
+             <div>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" placeholder="your email" required>
+             </div>
+             <div>
+                <label for="phone">Phone Number</label>
+                <input type="tel" name="phone" id="phone" placeholder="your phone number" required>
+             </div>
+             <div>
+                <label for="textbox">Text</label>
+                <input type="text" name="text" id="textbox" required>
+             </div>
+             <input type="submit">
+          </fieldset>
+        </form>
+     
      </section>
 
     <section>
        <div> Contact </div> 
     </section>
 
-    <footer>
-        Social Links
-    </footer>
+  
+        <footer>
+            <ul class="social-networks">
+                <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+                <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+        </footer>
+    
  
     <!-- font awseome script-->
     <script src="https://kit.fontawesome.com/afab3b6792.js" crossorigin="anonymous"></script>

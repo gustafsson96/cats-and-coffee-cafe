@@ -171,16 +171,29 @@ input {
     box-sizing: border-box;
   }
 
+.contact-section {
+    padding: 1rem;
+    background-color: #faf0dc;
+    width: 100%;
+}
+
+  .contact-section h2 {
+    text-align: center;
+    border-bottom: 1px solid #432616;
+  }
 
 .contact-text {
     border: 2px solid red;
-    max-width: 50%;
-    max-height: auto;
+    max-width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
 .contact-image img {
-    max-width: 40%;
-    max-height: auto;
-    padding: 1.5rem;
-    float: right; 
+    max-width: 50%;
+    padding: 1rem;
+    opacity: 80%;
+
+    
 }

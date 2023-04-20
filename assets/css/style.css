@@ -71,48 +71,40 @@ h1, h2 {
 }
 
 .hero-image img {
-    width: 100%;
+    max-width: 100%;
     height: 100%;
     
 }
-
 
 .welcome {
     width: 20rem;
     padding: 0px;
     margin: auto; 
     text-align: left; 
+    font-size: 1em;
 }
 
 .description {
     font-size: 1.3em;
 }
 
-
-
-.about {
-    background-color: red;
+.about-section {
     padding: 1rem;
-    margin: 2rem auto;
-    
-
 }
 
-.about h2 {
+.about-section h2 {
     text-align: center;
     border-bottom: 1px solid #432616;
+    padding: 0.5rem;
 }
 
-.about p {
-    padding: 1rem 0.5rem;
-}
 
-.about-image img {
-    max-width: 40%;
-    max-height: auto;
-    padding: 1.5rem;
+.about-text {
+    padding: 1rem;
+    max-width: 100%;
     
 }
+
 
 /* gallery */
 
@@ -124,6 +116,7 @@ h1, h2 {
 .gallery h2 {
     text-align: center;
     border-bottom: 1px solid #432616;
+    padding: 0.5rem;
 }
 
 #birth {

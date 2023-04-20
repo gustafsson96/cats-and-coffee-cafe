@@ -161,3 +161,16 @@ table img {
     text-align: center;
 
 }
+
+.contact-text {
+    border: 2px solid red;
+    max-width: 50%;
+    max-height: auto;
+}
+
+.contact-image img {
+    max-width: 40%;
+    max-height: auto;
+    padding: 1.5rem;
+    float: right; 
+}

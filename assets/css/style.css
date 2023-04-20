@@ -89,6 +89,7 @@ h1, h2 {
 }
 
 
+
 .about {
     background-color: red;
     padding: 1rem;
@@ -104,6 +105,13 @@ h1, h2 {
 
 .about p {
     padding: 1rem 0.5rem;
+}
+
+.about-image img {
+    max-width: 40%;
+    max-height: auto;
+    padding: 1.5rem;
+    
 }
 
 /* gallery */

@@ -143,9 +143,9 @@ https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for n
 
 Used google "colour picker" to find the right hex color. 
 
-Header image from https://unsplash.com/
+Header image and contact from https://unsplash.com/
 
-cat images from https://www.pexels.com/
+cat images and about image from https://www.pexels.com/
 
 
 ## Content

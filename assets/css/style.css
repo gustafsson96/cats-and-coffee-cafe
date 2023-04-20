@@ -155,13 +155,21 @@ table img {
     border: 2px solid #432616;
     max-width: 400px;
     margin: 0.5rem auto;
-    text-align: center;
+    
 }
 
 .adoption-form h3 {
     text-align: center;
 
 }
+
+input {
+    width: 100%;
+    padding: 0.8rem 1.3rem;
+    margin: 0.5rem 0;
+    box-sizing: border-box;
+  }
+
 
 .contact-text {
     border: 2px solid red;

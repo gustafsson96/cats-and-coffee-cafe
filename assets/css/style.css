@@ -98,11 +98,12 @@ h1, h2 {
     padding: 0.5rem;
 }
 
+.about-section ul {
+    margin: 1rem;
+}
 
-.about-text {
-    padding: 1rem;
-    max-width: 100%;
-    
+.about-section li {
+list-style: none;
 }
 
 
@@ -154,7 +155,7 @@ table img {
     padding: 1.5rem; 
     border: 2px solid #432616;
     max-width: 400px;
-    margin: 0.5rem auto;
+    margin: 2rem auto;
     
 }
 

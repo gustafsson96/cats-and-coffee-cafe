@@ -111,6 +111,7 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 ## Features
 -Navbar, changes font-size when hovered
+sticky on bigger screens, not on smaller screens to save space 
 
 -The landing page image
 

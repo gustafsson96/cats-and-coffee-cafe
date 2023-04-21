@@ -13,11 +13,18 @@ body {
     color: #432616;
 }
 
-/* header */
-
 h1, h2 {
     font-family: roboto, sans-serif;
     text-transform: uppercase;
+}
+
+/* header */
+
+header {
+    position: sticky;
+    top: 0;
+    padding-bottom: 40px;
+    background-color: #fff;
 }
 
 #logo {
@@ -30,6 +37,7 @@ h1, h2 {
 #menu, #logo {
     line-height: 50px;
 }
+
 
 #menu li {
     float: right;
@@ -206,6 +214,11 @@ input {
 /* media queries */
 
   @media screen and (max-width:950px) {
+   
+    header {
+        position: static;
+    }
+    
     #menu {
         clear: left;
         float: left;
@@ -223,7 +236,7 @@ input {
 @media screen and (max-width:600px) {
 
 .image-container {
-    display: none;
+    display: block;
 }
 
 }

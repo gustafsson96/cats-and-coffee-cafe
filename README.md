@@ -147,6 +147,8 @@ Header image and contact from https://unsplash.com/
 
 cat images and about image from https://www.pexels.com/
 
+code from love running for responsive elements header and footer
+
 
 ## Content
 

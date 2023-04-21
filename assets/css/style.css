@@ -52,10 +52,6 @@ h1, h2 {
     font-size: 110%;
 }
 
-.active {
-    font-size: 115%;
-}
-
 /* hero banner */
 
 .container {
@@ -170,6 +166,30 @@ input {
     margin: 0.5rem 0;
     box-sizing: border-box;
   }
+
+
+  footer {
+    background-color: #faf0dc;
+    height: 6.25rem;
+    border-top: 2px solid #432616;
+    border-bottom: 2px solid #432616;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 1%; 
+    padding: 1%;
+    color: #432616;
+}
+
 
   @media screen and (max-width:950px) {
     #menu {

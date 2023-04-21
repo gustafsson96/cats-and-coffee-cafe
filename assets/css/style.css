@@ -54,7 +54,7 @@ h1, h2 {
 
 /* hero banner */
 
-.container {
+.hero-container {
     display: flex;
     flex-direction: row-reverse;
     width: 100%;
@@ -199,4 +199,11 @@ input {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    .hero-container {
+        flex-direction: column;
+    }
+
+
+
 }

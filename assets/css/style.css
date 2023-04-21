@@ -23,8 +23,9 @@ h1, h2 {
 header {
     position: sticky;
     top: 0;
-    padding-bottom: 40px;
+    padding-bottom: 43px;
     background-color: #fff;
+    border-bottom: 1.5px solid #432616;
 }
 
 #logo {
@@ -194,6 +195,7 @@ input {
     height: 6.25rem;
     border-top: 2px solid #432616;
     border-bottom: 2px solid #432616;
+    margin: 1rem;
 }
 
 .social-networks {
@@ -205,9 +207,23 @@ input {
 }
 
 .social-networks i {
-    font-size: 200%;
+    font-size: 150%;
     margin: 1%; 
     padding: 1%;
+    color: #432616;
+}
+
+.contact {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.contact > li {
+    display: inline;
+    padding: 0.5em;
+}
+
+.contact > i {
     color: #432616;
 }
 

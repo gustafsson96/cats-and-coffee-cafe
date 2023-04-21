@@ -88,7 +88,7 @@ header {
 /* about section */
 
 .about-section {
-    padding: 1rem;
+    padding: 3rem;
 }
 
 .about-section h2 {
@@ -126,7 +126,7 @@ list-style: none;
 
 .gallery {
     background-color: #faf0dc;
-    padding: 1rem;
+    padding: 3rem;
 }
 
 .gallery h2 {
@@ -158,12 +158,13 @@ table img {
 /* form section */
 
 .form-section {
-    padding: 1rem;
+    padding: 3rem;
 }
 
 .form-section h2 {
     text-align: center;
     border-bottom: 1px solid #432616;
+    padding: 0.5rem;
 }
 
   

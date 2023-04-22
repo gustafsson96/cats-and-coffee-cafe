@@ -104,6 +104,7 @@ header {
 
 .about-section li {
 list-style: none;
+padding: 1rem 0;
 }
 
 .image-container {
@@ -190,7 +191,7 @@ input {
     box-sizing: border-box;
   }
 
-  textarea {
+textarea {
     width: 100%;
     padding: 1.5rem;
     margin: 0.5rem 0;
@@ -199,7 +200,7 @@ input {
 
   /* footer */
 
-  footer {
+footer {
     background-color: #faf0dc;
     width: 100%; 
     border-top: 2px solid #432616;
@@ -241,7 +242,7 @@ input {
 
 /* media queries */
 
-  @media screen and (max-width:950px) {
+ @media screen and (max-width:950px) {
    
     header {
         position: static;

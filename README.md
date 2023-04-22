@@ -1,9 +1,6 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 # Cats and Coffee Café
 
-"Sales pitch" 
+Cats and Coffee Café is a fictional café located in Stockholm, Sweden. The website is mainly targeted towards people with an interest for cats who want a fun and unique experience, but also towards those looking to adopt a cat. This website contains the most important information for a potential visitor/adopter: address and opening hours, an "About Us" section, a gallery with images of the cats, and adoption form, and contact information including links to social media. 
 
 ## Features
 -Navbar, changes font-size when hovered

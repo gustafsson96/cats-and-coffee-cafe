@@ -16,7 +16,7 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 + ### Landing page image
     * The landing page shows a photograph next to a block of informative text, both clearly on the cats and coffee theme. This introduces the user to the café and tells them where and when to visit. 
-    * The photograph will be displayed over the text on smaller screens.
+    * The photograph will be displayed above the text on smaller screens.
 
 ![screenshot of landing page image](/documentation/landing_page_image.png)   
 
@@ -33,37 +33,53 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
     ![screenshot of our cats section](/documentation/our_cats_section.png)
 
 + ### Adoption Form
+    * The Adoption Form allows the user to show interest in adopting a cat. Name, email, phone number and a short introduction are required for the form to be submitted. 
+
+![screenshot of adoption form](/documentation/adoption_form.png)
+
++ ### Footer
+    * The footer consists of social media links that will open in a new tab when clicked, in addition to the café's email address and phone number.
+    * The content in the footer is important for users who have a question or want to know more about the café.
+
+![screenshot of footer](/documentation/footer.png)
+
+## Testing
+
++ ### Browsers
+
++ ### Responsive design
+
++ ### Form
 
 
--Adoption (form)
-
--Contact 
-
--Footer with social media links
-
-
-Features left to implement (other feature ideas)
-
-## Bugs
 
 ## Validator Testing
 
-### Lighthouse report
-
++ ### HTML
+    * The HTML code was validated using the [W3C HTML Validator](https://validator.w3.org/#validate_by_input). 
+    Two paragraph elements were missing end tags. Added the needed tags and then validated the code a second time with no errors found.
++ ### CSS
+    * The CSS code was validated using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). No errors found.
++ ### Accessibility (Lighthouse Report)
 ![screenshot of the scores from the first lighthouse report](/documentation/lighthouse-testing.1.png)
 
-The screenshot above shows the results from my first lighthouse report. I decided I wanted to see if I could improve the accessibility score and therefore added aria-label attributes to the social media links (as suggested in the lighhouse report). This resulted in an accessibility score of 100 after running a second lighthouse report, results below: 
+The screenshot above shows the results from my first lighthouse report. I decided I wanted to see if I could improve the accessibility score and therefore added aria-label attributes to the social media links (as alternative text for the social media link was suggested in the first lighhouse report). This resulted in an accessibility score of 100 after running a second lighthouse report, results presented below:
 
 ![Screenshot of the scores from the second lighthouse report with improved accessibility](/documentation/lighthouse-testing.2.png)
 
-### Bugs
 
-#### Solved Bugs
+## Bugs
 
-+ Problem: After I first deployed my project, none of the image files in my HTML code would load on the page. 
-+ Solution: Removing the first / for all images in my code (**CREDIT** to the Code Institute video "PP1 Sample README.md" for this solution).
++ #### Solved bugs
+    + Problem: After I first deployed my project, none of the image files in my HTML code would load on the page. 
+    + Solution: Removing the first / for the absolute file paths in my code (**CREDIT to the Code Institute video "PP1 Sample READMEmd" for this solution**).
 
-## Unsolved bugs
++ #### Unfixed bugs
+    + No unfixed bugs to present.
+
+
+
+
 
 ## Deployment
 

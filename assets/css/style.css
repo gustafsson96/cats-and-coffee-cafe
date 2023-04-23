@@ -274,3 +274,17 @@ footer {
 }
 
 }
+
+@media screen and (max-width:370px) {
+
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    line-height: 25px;
+    font-size: 85%;
+    padding-top: 1rem;
+}
+
+}

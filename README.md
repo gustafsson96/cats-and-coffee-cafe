@@ -43,6 +43,10 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 ![screenshot of footer](/documentation/footer.png)
 
+### Features Left to Implement
+
+* Include link to location of the café on Google Maps. Perhaps this would also require a separate contact section where all contact information could be collected. 
+
 ## Testing
 
 + ### Browsers
@@ -93,9 +97,12 @@ The screenshot above shows the results from my first lighthouse report. I decide
 + #### Unfixed bugs
     + No unfixed bugs to present.
 
-
-
 ## Deployment
++ I deployed this site to GitHub pages through the following process: 
+    1. Open up the GitHub repositry for the project. 
+    2. Click the Settings tab and navigate to Pages in the menu to the left of the screen.
+    3. Under Branch, select "main" in the dropdown menu and clich Save. 
+    4. Refresh page to find the link to the live website at the top of the GitHub Pages section. 
 
 ## Credits
 

@@ -7,12 +7,21 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 ![screenshot showing website on different devices to show its reponsiveness](/documentation/amiresponsive.2.png)
 
 ## Features
--Navbar, changes font-size when hovered
-sticky on bigger screens, not on smaller screens to save space 
 
--The landing page image
++ ### Navigation bar
+    * The navigation bar consists of a Logo (linking to the website) and About Us, Our Cats, and Adoption (all linking to their correlating section of the page, seeing that this is a website with a single scrolling page).
+    * To faciliate the user's navigation of the website, the navigation bar stays on top of the screen while scrolling the page on bigger screens. This function has been intentionally removed on smaller screens to allow more space for the other content. 
 
--About us
+![screenshot of navigation bar](/documentation/navigation_bar.png)
+
++ ### Landing page image
+    * The landing page shows a photograph next to a block of informative text, both clearly on the cats and coffee theme. This introduces the user to the café and tells them where and when to visit. 
+    * The photograph will be displayed over the text on smaller screens.
+
+![screenshot of landing page image](/documentation/landing_page_image.png)   
+
++ ### About Us Section
+    * The About Us Section tells the user more about the café and the organization.
 
 -Our cats (with images) table? 
 

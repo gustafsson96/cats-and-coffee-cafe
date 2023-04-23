@@ -1,6 +1,8 @@
 # Cats and Coffee Café
 
-Cats and Coffee Café is a fictional café located in Stockholm, Sweden. The website is mainly targeted towards people with an interest for cats who want a fun and unique experience, but also towards those looking to adopt a cat. This website contains the most important information for a potential visitor/adopter: address and opening hours, an "About Us" section, a gallery with images of the cats, and adoption form, and contact information including links to social media. 
+**Link to live website: [Cats and Coffee Café](https://gustafsson96.github.io/cats-and-coffee-cafe/)**
+
+Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organization, located in Stockholm, Sweden. The website is targeted towards people who like cats, both those looking for a unique and fun café experience and those looking to adopt a rescue cat. This website contains the most important information for a potential visitor/cat adopter: address and opening hours, contact information, images of the cats, an adoption form, and text content guiding the user depending on their purpose of visiting the site (such as encouragement to fill out adoption form or where contact information can be found).
 
 ![screenshot showing website on different devices to show its reponsiveness](/documentation/amiresponsive.2.png)
 
@@ -25,7 +27,7 @@ Features left to implement (other feature ideas)
 
 ## Bugs
 
-## Testing
+## Validator Testing
 
 ### Lighthouse report
 
@@ -35,15 +37,22 @@ The screenshot above shows the results from my first lighthouse report. I decide
 
 ![Screenshot of the scores from the second lighthouse report with improved accessibility](/documentation/lighthouse-testing.2.png)
 
+### Bugs
 
+#### Solved Bugs
 
-## Validator testing
++ Problem: After I first deployed my project, none of the image files in my HTML code would load on the page. 
++ Solution: Removing the first / for all images in my code (**CREDIT** to the Code Institute video "PP1 Sample README.md" for this solution).
 
-## Unfixed bugs
+## Unsolved bugs
 
 ## Deployment
 
 ## Credits
+
+### Content
+
+### Media
 
 Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/fonts/roboto?utm_content=cmp-true to choose what fonts to pair. 
 

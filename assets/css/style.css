@@ -247,6 +247,8 @@ footer {
     header {
         position: static;
     }
+
+    /* id menu code from Code Institute (url:https://www.youtube.com/watch?v=zA9EPglnnUI&t=115s) */
     
     #menu {
         clear: left;

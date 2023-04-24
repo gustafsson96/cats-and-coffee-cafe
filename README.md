@@ -101,16 +101,34 @@ The screenshot above shows the results from my first lighthouse report. I decide
 + I deployed this site to GitHub pages through the following process: 
     1. Open up the GitHub repositry for the project. 
     2. Click the Settings tab and navigate to Pages in the menu to the left of the screen.
-    3. Under Branch, select "main" in the dropdown menu and clich Save. 
+    3. Under Branch, select "main" in the dropdown menu and click Save. 
     4. Refresh page to find the link to the live website at the top of the GitHub Pages section. 
+
+Live link: https://gustafsson96.github.io/cats-and-coffee-cafe/
 
 ## Credits
 
-### Content
++ ### Content
+    + To add a core structure to the HTML file (single page website), I followed alonged the [Love Running 03: Boilerplate](https://www.youtube.com/watch?v=MUPx3gmySR0&t=316s) video by Code Institue available in LMS and adapted the content to my project. 
 
-Followed along the "love running" walkthrough by Code Institute and adapted the content to add core strucutre to the home page html file.
+    + For the landing page layout I used display:flex and [this YouTube tutorial](https://www.youtube.com/watch?v=u044iM9xsWU) by Kevin Powell helped me understand flexbox. 
 
-### Media
+    + To make the navigation bar stick when scrolling the page on bigger screen sizes I used position:sticky and [this YouTube video](https://www.youtube.com/watch?v=NzjU1GmKosQ) by channel Web Dev Simplified helped me understand this concept better.
+   
+    + For better understanding of forms and what attributes to give the form element, I watched [this YouTube video](https://www.youtube.com/watch?v=fNcJuPIZ2WE&t=528s) by channel Web Dev Simplified in addition to the course content (HTML -> The Essentials -> content related to forms) available in the LMS.
+   
+    + The code for the social media links was copied from the [Love Running 21: Footer Styling](https://www.youtube.com/watch?v=7E83AmWKSJ8&t=171s) video and adapted to fit the design of my page. 
+
+    + 
+
+    + I used [Font Awesome](https://fontawesome.com/) for the icons for header and footer.
+
++ ### Media
+    +
+
++ ### Other
+    + All my coding knowledge has its roots in the Code Institute LMS content. I have used YouTube for a deeper understanding of certain concepts.
+    + A thank you to friends and family who helped me confirm the website looks good and is functioning on different devices by opening the live link I sent them and getting back to me with their experience. 
 
 Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/fonts/roboto?utm_content=cmp-true to choose what fonts to pair. 
 

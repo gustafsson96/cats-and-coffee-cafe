@@ -6,6 +6,26 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 ![screenshot showing website on different devices to show its reponsiveness](/documentation/amiresponsive.2.png)
 
+## Wireframe and Planning
+
++ ### Balsamiq Wireframes
+    * To ensure I had a plan for my project, I used Balsamiq Wireframes to create a rough draft. 
+
+![screenshot of balsamiq wireframe first section](/documentation/balsamiq1.png)
+![screenshot of balsamiq wireframe gallery](/documentation/balsamiq2.png)
+![screenshot of balsamiq wireframe form](/documentation/balsamiq3.png)
+![screenshot of balsamiq wireframe contact](/documentation/balsamiq4.png)
+
++ ### Google Fonts
+    * I used [this article](https://heyreliable.com/ultimate-google-font-pairings/) for Google font pairing inspiration and decided on Lora and Roboto.
+
+![screenshot of google font pairing](/documentation/font-pairing.png)
+
++ ### Colors
+    *  I wanted the colors of the page to contribute to clearly structuring the different sections. In addition, I wanted to find warm earthy tones to envoke a welcoming feeling for the user. Do find my desired color scheme, I used [Coolors](https://coolors.co).
+
+![screenshot of color scheme](/documentation/screenshot_colors.png)
+
 ## Features
 
 + ### Navigation bar
@@ -111,33 +131,27 @@ Live link: https://gustafsson96.github.io/cats-and-coffee-cafe/
 + ### Content
     + To add a core structure to the HTML file (single page website), I followed alonged the [Love Running 03: Boilerplate](https://www.youtube.com/watch?v=MUPx3gmySR0&t=316s) video by Code Institue available in LMS and adapted the content to my project. 
 
+    + To create navigation bar, I watched Code Institute's navigation styling videos [Love Running 07](https://www.youtube.com/watch?v=v6BsfVdLJz8&t=135s) and [Love Running 08](https://www.youtube.com/watch?v=nuR9XQlWDw8&t=261s) available in the LMS and adopted the content to fit the design of my page.
+
     + For the landing page layout I used display:flex and [this YouTube tutorial](https://www.youtube.com/watch?v=u044iM9xsWU) by Kevin Powell helped me understand flexbox. 
 
     + To make the navigation bar stick when scrolling the page on bigger screen sizes I used position:sticky and [this YouTube video](https://www.youtube.com/watch?v=NzjU1GmKosQ) by channel Web Dev Simplified helped me understand this concept better.
    
     + For better understanding of forms and what attributes to give the form element, I watched [this YouTube video](https://www.youtube.com/watch?v=fNcJuPIZ2WE&t=528s) by channel Web Dev Simplified in addition to the course content (HTML -> The Essentials -> content related to forms) available in the LMS.
+
+    + Code to style the input elements in the adoption form was inspired (however not copied) by the [W3Schools CSS Form page](https://www.w3schools.com/css/tryit.asp?filename=trycss_forms).
    
     + The code for the social media links was copied from the [Love Running 21: Footer Styling](https://www.youtube.com/watch?v=7E83AmWKSJ8&t=171s) video and adapted to fit the design of my page. 
 
-    + 
+    + The media query to make the navigation bar responsive was copied from the Code Institute video [Love Running 25: Responsive Header](https://www.youtube.com/watch?v=zA9EPglnnUI).
 
     + I used [Font Awesome](https://fontawesome.com/) for the icons for header and footer.
 
 + ### Media
-    +
+    + The landing page image was taken from [Unsplash](https://unsplash.com/).
+    + All other images on the page (for About Us section and Our Cats gallery) were taken from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/).
 
 + ### Other
     + All my coding knowledge has its roots in the Code Institute LMS content. I have used YouTube for a deeper understanding of certain concepts.
     + A thank you to friends and family who helped me confirm the website looks good and is functioning on different devices by opening the live link I sent them and getting back to me with their experience. 
 
-Used https://heyreliable.com/ultimate-google-font-pairings/ and https://typ.io/fonts/roboto?utm_content=cmp-true to choose what fonts to pair. 
-
-https://www.w3schools.com/cssref/sel_hover.php To view options for a:hover for nav-bar. 
-
-Used google "colour picker" to find the right hex color. 
-
-Header image and contact from https://unsplash.com/
-
-cat images and about image from https://www.pexels.com/
-
-code from love running for responsive elements header and footer

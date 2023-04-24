@@ -18,7 +18,7 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-/* header */
+/* navigation bar */
 
 header {
     position: sticky;
@@ -124,7 +124,7 @@ padding: 1rem 0;
     height: 100%;
 }
 
-/* gallery for our cats */
+/* our cats section */
 
 .gallery {
     background-color: #faf0dc;

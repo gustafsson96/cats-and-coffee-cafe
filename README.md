@@ -10,6 +10,7 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 + ### Balsamiq Wireframes
     * To ensure I had a plan for my project, I used Balsamiq Wireframes to create a rough draft. 
+    * The biggest difference between the wireframe and the final project is that the contact section ended up being left out. Instead, the contact information on the live page can be found in the header and footer.
 
 ![screenshot of balsamiq wireframe first section](/documentation/balsamiq1.png)
 ![screenshot of balsamiq wireframe gallery](/documentation/balsamiq2.png)
@@ -17,7 +18,7 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 ![screenshot of balsamiq wireframe contact](/documentation/balsamiq4.png)
 
 + ### Google Fonts
-    * I used [this article](https://heyreliable.com/ultimate-google-font-pairings/) for Google font pairing inspiration and decided on Lora and Roboto.
+    * I used [this article](https://heyreliable.com/ultimate-google-font-pairings/) for Google font pairing inspiration and decided on the fonts Lora and Roboto.
 
 ![screenshot of google font pairing](/documentation/font-pairing.png)
 
@@ -29,7 +30,7 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 ## Features
 
 + ### Navigation bar
-    * The navigation bar consists of a Logo (linking to the website) and About Us, Our Cats, and Adoption (all linking to their correlating section of the page, seeing that this is a website with a single scrolling page).
+    * The navigation bar consists of a Logo (linking to the website) and About Us, Our Cats, and Adoption (all linking to their correlating section of the single scrolling page making up the website).
     * To faciliate the user's navigation of the website, the navigation bar stays on top of the screen while scrolling the page on bigger screens. This function has been intentionally removed on smaller screens to allow more space for the other content. 
 
 ![screenshot of navigation bar](/documentation/navigation_bar.png)
@@ -42,12 +43,14 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 + ### About Us Section
     * The About Us section tells the user more about what to expect from a visit at Cats and Coffee Café. It also contains information that guides the user to other sections of the page depending on what they are looking for.
+    * The About Us section contains images that allow the user to see what the café looks like inside.
+    * The images are stacked on top of each other on smaller screens.
 
     ![screenshot of about us section](/documentation/about_us_section.png)
 
 + ### Our Cats Section (gallery)
     *  In the Our Cats section, the user is presented with photographs and information about the adoptable cats living at the café.
-    * The photographs are presented using two rows of images (only one is shown in the screenshot below).
+    * The photographs are presented using a table with two rows of images (only one row is shown in the screenshot below).
     * The rows can be scrolled on screens too small to show all photographs next to each other. 
 
     ![screenshot of our cats section](/documentation/our_cats_section.png)
@@ -152,6 +155,6 @@ Live link: https://gustafsson96.github.io/cats-and-coffee-cafe/
     + All other images on the page (for About Us section and Our Cats gallery) were taken from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/).
 
 + ### Other
-    + All my coding knowledge has its roots in the Code Institute LMS content. I have used YouTube for a deeper understanding of certain concepts.
-    + A thank you to friends and family who helped me confirm the website looks good and is functioning on different devices by opening the live link I sent them and getting back to me with their experience. 
+    + All my coding knowledge has its roots in the Code Institute LMS content. I have used YouTube for a deeper understanding of concepts I found difficult to comprehend.
+    + A thank you to my friends and family who helped me confirm that the website looks good and is functioning on different devices by opening the live link I sent them and getting back to me with their experience. 
 

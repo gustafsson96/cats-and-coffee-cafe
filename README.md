@@ -23,7 +23,7 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 ![screenshot of google font pairing](/documentation/font-pairing.png)
 
 + ### Colors
-    *  I wanted the colors of the page to contribute to clearly structuring the different sections. In addition, I wanted to find warm earthy tones to envoke a welcoming feeling for the user. Do find my desired color scheme, I used [Coolors](https://coolors.co).
+    *  I wanted the colors of the page to contribute to clearly structuring the different sections. In addition, I wanted to find warm earthy tones to envoke a welcoming feeling for the user. To find my desired color scheme, I used [Coolors](https://coolors.co).
 
 ![screenshot of color scheme](/documentation/screenshot_colors.png)
 
@@ -50,25 +50,24 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
 
 + ### Our Cats Section (gallery)
     *  In the Our Cats section, the user is presented with photographs and information about the adoptable cats living at the café.
-    * The photographs are presented using a table with two rows of images (only one row is shown in the screenshot below).
-    * The rows can be scrolled on screens too small to show all photographs next to each other. 
+    * The photographs are presented using two tables to achieve two scrollable (when necessary in relation to screen size) rows of images. Only one row is displayed in the screenshot below.
 
     ![screenshot of our cats section](/documentation/our_cats_section.png)
 
 + ### Adoption Form
-    * The Adoption Form allows the user to show interest in adopting a cat. Name, email, phone number and a short introduction are required for the form to be submitted. 
+    * The Adoption Form allows the user to show interest in adopting a cat. Name, email, phone number and a short introduction are required for the form to be submitted.
 
 ![screenshot of adoption form](/documentation/adoption_form.png)
 
 + ### Footer
     * The footer consists of social media links that will open in a new tab when clicked, in addition to the café's email address and phone number.
-    * The content in the footer is important for users who have a question or want to know more about the café.
+    * The content in the footer is important for users who have questions or want to know more about the café.
 
 ![screenshot of footer](/documentation/footer.png)
 
 ### Features Left to Implement
 
-* Include link to location of the café on Google Maps. Perhaps this would also require a separate contact section where all contact information could be collected. 
+* Include link to location of the café on Google Maps. For this I would include a separate contact section where all contact information could be collected. 
 
 ## Testing
 
@@ -76,16 +75,17 @@ Cats and Coffee Café is the ultimate hybrid of a café and a cat rescue organiz
     * I opened the website in Chrome, Safari, and Firefox to ensure that it works in different browsers.
 
 + ### Responsive design
-    * To make sure that this project is responsive, I have continuously used the device toolbar in devtools when adding and making changes in the code. After finishing the code, I checked one last time and to confirm that the page looks good and is functioning on diffent screen sizes. 
+    * To make sure that this project is responsive, I have continuously used the device toolbar in devtools when adding and making changes in the code. After finishing the code, I checked one last time to confirm that the page looks good and is functioning on diffent screen sizes. 
 
     * I have opened the project on my own devices (MacBook Air and iPhone 13) to confirm that the page looks good and is functioning on diffent screen sizes. 
 
-    * For a greater variety to further ensure that the project is responsive, I have asked friends and family with devices other than mine to open the project and got confirmations that it looks good and is functioning.
+    * For a greater variety to further ensure that the project is responsive, I have asked friends and family with devices other than mine to open the project. I got their confirmations that the page looks good and is functioning.
 
      * I have used the [amiresponsive website](https://ui.dev/amiresponsive) to display the website on different devices and can confirm that it (after the problem and solution presented under "bugs") looks good. 
 
 + ### Form
-    * I have personally and by the help of family confirmed that the form and submit button work. The form cannot be submitted without the fields filled in (emphasizing that an email is required for the email field).
+    * I have personally and by the help of family confirmed that the site is interactive by checking that the form and submit button work. The form cannot be submitted without the fields filled in (emphasizing that an email is required for the email field).
+    * I have confirmed that submitting the form takes you to a "thank you" page.
 
     ![screenshot of form required](/documentation/form_required.png)
 
@@ -108,7 +108,7 @@ The screenshot above shows the results from my first lighthouse report. I decide
 
 + #### Solved bugs
     + 1st problem: After I first deployed my project, none of the image files in my HTML code would load on the page. 
-    + Solution: Removing the first / for the absolute file paths in my code (**CREDIT to the Code Institute video "PP1 Sample READMEmd" for this solution**).
+    + Solution: Removing the first / for the file paths in my code (**CREDIT to the Code Institute video "PP1 Sample READMEmd" for this solution**).
 
     + 2nd problem: When I first used the [amiresponsive website](https://ui.dev/amiresponsive) to check my website on different devices, I could see that the links in the navigation bar were not aligned on the smallest screen.
 
@@ -122,6 +122,7 @@ The screenshot above shows the results from my first lighthouse report. I decide
 
 ## Deployment
 + I deployed this site to GitHub pages through the following process: 
+
     1. Open up the GitHub repositry for the project. 
     2. Click the Settings tab and navigate to Pages in the menu to the left of the screen.
     3. Under Branch, select "main" in the dropdown menu and click Save. 
@@ -134,7 +135,7 @@ Live link: https://gustafsson96.github.io/cats-and-coffee-cafe/
 + ### Content
     + To add a core structure to the HTML file (single page website), I followed alonged the [Love Running 03: Boilerplate](https://www.youtube.com/watch?v=MUPx3gmySR0&t=316s) video by Code Institue available in LMS and adapted the content to my project. 
 
-    + To create navigation bar, I watched Code Institute's navigation styling videos [Love Running 07](https://www.youtube.com/watch?v=v6BsfVdLJz8&t=135s) and [Love Running 08](https://www.youtube.com/watch?v=nuR9XQlWDw8&t=261s) available in the LMS and adopted the content to fit the design of my page.
+    + To create a navigation bar, I watched the Code Institute navigation styling videos [Love Running 07](https://www.youtube.com/watch?v=v6BsfVdLJz8&t=135s) and [Love Running 08](https://www.youtube.com/watch?v=nuR9XQlWDw8&t=261s) available in the LMS and adopted the content to fit the design of my page.
 
     + For the landing page layout I used display:flex and [this YouTube tutorial](https://www.youtube.com/watch?v=u044iM9xsWU) by Kevin Powell helped me understand flexbox. 
 
